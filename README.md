@@ -1,5 +1,5 @@
 # crypto-currency
-A crypto-currency built using Node JS 
+A proof of work based crypto-currency built using Node JS 
 
 
 # Tech stack used
